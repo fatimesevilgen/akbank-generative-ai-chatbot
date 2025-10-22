@@ -10,3 +10,5 @@ torch
 pydantic
 tqdm
 openai
+langchain_text_splitters
+langchain_huggingface
